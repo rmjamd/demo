@@ -1,2 +1,2 @@
 # demo
-heroku demo
+kubernetes demo
